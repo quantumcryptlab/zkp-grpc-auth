@@ -3,5 +3,6 @@ Code of this Udemy course:
 https://www.udemy.com/course/zero-knowledge-proofs-in-rust
 
 ## Design
-Prover (Client)
-Verifier (Server)
+
+- Prover (Client)
+- Verifier (Server)
